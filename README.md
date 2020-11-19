@@ -17,7 +17,7 @@ In the src folder you will find a .psd and .jpg file.
 
 ## What should be included?
 
-1. Tht task should be sent as a link to git repository.
+1. The task should be sent as a link to git repository.
 
 ## What should you pay attention to?
 
