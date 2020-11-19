@@ -1,51 +1,48 @@
 <img  src="https://github.com/auroracreation/magento-frontend-recruitment-task-header-with-menu/blob/master/logo.png"  alt="Aurora Creation logo"/>
 
-# Zadanie rekrutacyjne Frontend 
+# Frontend recruitment task 
 
-## Stworzenie szablonu Magento 2 z headerem wraz z menu
+## Creating Magento 2 layout with header and menu
 
-Twoim zadaniem będzie stworzenie **jedynie** elementu header z menu (nie całej strony). Głównym celem ćwiczenia jest sprawdzenie jak radzisz sobie z kodowaniem szablonu z PSD do Magento.
+Your task will be **only** creating header and menu (not whole page). The main aim of the exercise is to check how do you code a PSD to HTML.
 
-W twoim rozwiązaniu muszą się znaleźć **jedynie** elementy:
-- górna belka
-- logo, wyszukiwarka, koszyk
-- menu kategorii
+Your code should contain **only**:
+- top bar
+- logo, search input, cart icon
+- cateogry menu
 
+## Source file
 
-## Plik źródłowy
+In the src folder you will find a .psd and .jpg file.
 
-W folderze src znajdziesz plik z zadaniem w formacie .psd. Rozwiąż zadanie na jego podstawie.
+## What should be included?
 
+1. Tht task should be sent as a link to git repository.
 
-## Co musi być zawarte w rozwiązaniu?
+## What should you pay attention to?
 
-1. Szablon, zgodny z zasadami tworzenia szablonów Magento 2,
-2. Rozwiąznie powinno być przesłane w formie linku do repozytorium.
+1. Correct, semantic HTML code and RWD.
+2. Correct appearance on different devices and browsers.
+3. Using [good practices](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/theme-best-practice.html) of creating Magento 2 layouts.
+4. Using system version control.
 
-## Na co warto zwrócić uwagę?
+## Browsers
 
-1. Poprawny, semantyczny kod HTML oraz RWD.
-2. Poprawny wygląd na różnych urządzeniach, systemach operacyjnych i przeglądarkach.
-3. Używanie [dobrych praktyk](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/theme-best-practice.html) tworzenia szablonów Magento 2.
-4. Korzystanie z systemu kontroli wersji podczas pracy.
+Your code should be compatible with browsers like:
 
-## Przeglądarki
-
-Rozwiązanie powinno działać na następujących wersjach przeglądarek:
-
-1. Firefox (najnowsza)
-2. Chrome (najnowsza)
-3. Edge (najnowsza)
+1. Firefox (latest)
+2. Chrome (latest)
+3. Edge (latest)
 4. Internet Explorer 11
-5. Safari (najnowsza)
+5. Safari (latest)
 
-## Na co zwrócimy uwagę przy ocenie?
+## You should pay attention to
 
-1. Poprawność kodu HTML i CSS.
-2. Spójność w nazewnictwie elementów.
-3. Reużywalne style i elementy.
-4. Reużywalny kod (zasada [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)).
-5. Dbałość o szczegóły.
-6. Dobre praktyki programistyczne.
-7. Strona wyglądająca tak samo niezależnie od przeglądarki.
-8. Zgodność z konwencjami Magento 2.
+1. Correctness of HTML and CSS code.
+2. Consistency in elements naming.
+3. Reusable styles.
+4. Reusable code ([DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)) principle.
+5. Attention to details.
+6. Good programming practices.
+7. Consistency in styles regardless of browser.
+8. Compliance with Magento 2 conventions.
